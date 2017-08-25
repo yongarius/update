@@ -1,0 +1,7 @@
+i3system_imgproc.dll
+i3system_TE.dll
+i3system_USB_DLL_V2_1.dll
+lang_eng.dll
+lang_kor.dll
+lang_rus.dll
+Thermal Expert Q1 1.6.1.1.exe
